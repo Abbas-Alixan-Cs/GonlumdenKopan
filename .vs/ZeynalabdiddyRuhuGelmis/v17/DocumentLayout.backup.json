@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\abbas\\OneDrive\\Desktop\\csharp\\ZeynalabdiddyRuhuGelmis\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B2C5AE6F-2C20-4CE5-A8DF-20E97F5455AC}|ZeynalabdiddyRuhuGelmis.MVC\\ZeynalabdiddyRuhuGelmis.MVC.csproj|c:\\users\\abbas\\onedrive\\desktop\\csharp\\zeynalabdiddyruhugelmis\\zeynalabdiddyruhugelmis.mvc\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B2C5AE6F-2C20-4CE5-A8DF-20E97F5455AC}|ZeynalabdiddyRuhuGelmis.MVC\\ZeynalabdiddyRuhuGelmis.MVC.csproj|solutionrelative:zeynalabdiddyruhugelmis.mvc\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2C5AE6F-2C20-4CE5-A8DF-20E97F5455AC}|ZeynalabdiddyRuhuGelmis.MVC\\ZeynalabdiddyRuhuGelmis.MVC.csproj|c:\\users\\abbas\\onedrive\\desktop\\csharp\\zeynalabdiddyruhugelmis\\zeynalabdiddyruhugelmis.mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B2C5AE6F-2C20-4CE5-A8DF-20E97F5455AC}|ZeynalabdiddyRuhuGelmis.MVC\\ZeynalabdiddyRuhuGelmis.MVC.csproj|solutionrelative:zeynalabdiddyruhugelmis.mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2C5AE6F-2C20-4CE5-A8DF-20E97F5455AC}|ZeynalabdiddyRuhuGelmis.MVC\\ZeynalabdiddyRuhuGelmis.MVC.csproj|c:\\users\\abbas\\onedrive\\desktop\\csharp\\zeynalabdiddyruhugelmis\\zeynalabdiddyruhugelmis.mvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B2C5AE6F-2C20-4CE5-A8DF-20E97F5455AC}|ZeynalabdiddyRuhuGelmis.MVC\\ZeynalabdiddyRuhuGelmis.MVC.csproj|solutionrelative:zeynalabdiddyruhugelmis.mvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2C5AE6F-2C20-4CE5-A8DF-20E97F5455AC}|ZeynalabdiddyRuhuGelmis.MVC\\ZeynalabdiddyRuhuGelmis.MVC.csproj|c:\\users\\abbas\\onedrive\\desktop\\csharp\\zeynalabdiddyruhugelmis\\zeynalabdiddyruhugelmis.mvc\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B2C5AE6F-2C20-4CE5-A8DF-20E97F5455AC}|ZeynalabdiddyRuhuGelmis.MVC\\ZeynalabdiddyRuhuGelmis.MVC.csproj|solutionrelative:zeynalabdiddyruhugelmis.mvc\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A9AF110-4C18-479E-8B23-DF3CE434D773}|ZeynalabdiddyRuhuGelmis.BL\\ZeynalabdiddyRuhuGelmis.BL.csproj|c:\\users\\abbas\\onedrive\\desktop\\csharp\\zeynalabdiddyruhugelmis\\zeynalabdiddyruhugelmis.bl\\services\\specialniggahelpservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A9AF110-4C18-479E-8B23-DF3CE434D773}|ZeynalabdiddyRuhuGelmis.BL\\ZeynalabdiddyRuhuGelmis.BL.csproj|solutionrelative:zeynalabdiddyruhugelmis.bl\\services\\specialniggahelpservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2C5AE6F-2C20-4CE5-A8DF-20E97F5455AC}|ZeynalabdiddyRuhuGelmis.MVC\\ZeynalabdiddyRuhuGelmis.MVC.csproj|c:\\users\\abbas\\onedrive\\desktop\\csharp\\zeynalabdiddyruhugelmis\\zeynalabdiddyruhugelmis.mvc\\areas\\admin\\views\\hogrider\\evolvenigga.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B2C5AE6F-2C20-4CE5-A8DF-20E97F5455AC}|ZeynalabdiddyRuhuGelmis.MVC\\ZeynalabdiddyRuhuGelmis.MVC.csproj|solutionrelative:zeynalabdiddyruhugelmis.mvc\\areas\\admin\\views\\hogrider\\evolvenigga.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\abbas\\OneDrive\\Desktop\\csharp\\ZeynalabdiddyRuhuGelmis\\ZeynalabdiddyRuhuGelmis.MVC\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ZeynalabdiddyRuhuGelmis.MVC\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\abbas\\OneDrive\\Desktop\\csharp\\ZeynalabdiddyRuhuGelmis\\ZeynalabdiddyRuhuGelmis.MVC\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ZeynalabdiddyRuhuGelmis.MVC\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAADcAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-26T15:09:42.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\abbas\\OneDrive\\Desktop\\csharp\\ZeynalabdiddyRuhuGelmis\\ZeynalabdiddyRuhuGelmis.MVC\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "ZeynalabdiddyRuhuGelmis.MVC\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\abbas\\OneDrive\\Desktop\\csharp\\ZeynalabdiddyRuhuGelmis\\ZeynalabdiddyRuhuGelmis.MVC\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "ZeynalabdiddyRuhuGelmis.MVC\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-26T15:07:16.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\abbas\\OneDrive\\Desktop\\csharp\\ZeynalabdiddyRuhuGelmis\\ZeynalabdiddyRuhuGelmis.MVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ZeynalabdiddyRuhuGelmis.MVC\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\abbas\\OneDrive\\Desktop\\csharp\\ZeynalabdiddyRuhuGelmis\\ZeynalabdiddyRuhuGelmis.MVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ZeynalabdiddyRuhuGelmis.MVC\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAAAFkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-26T15:05:41.151Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\abbas\\OneDrive\\Desktop\\csharp\\ZeynalabdiddyRuhuGelmis\\ZeynalabdiddyRuhuGelmis.MVC\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "ZeynalabdiddyRuhuGelmis.MVC\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\abbas\\OneDrive\\Desktop\\csharp\\ZeynalabdiddyRuhuGelmis\\ZeynalabdiddyRuhuGelmis.MVC\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "ZeynalabdiddyRuhuGelmis.MVC\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-26T15:05:39.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EvolveNigga.cshtml",
+              "DocumentMoniker": "C:\\Users\\abbas\\OneDrive\\Desktop\\csharp\\ZeynalabdiddyRuhuGelmis\\ZeynalabdiddyRuhuGelmis.MVC\\Areas\\Admin\\Views\\HogRider\\EvolveNigga.cshtml",
+              "RelativeDocumentMoniker": "ZeynalabdiddyRuhuGelmis.MVC\\Areas\\Admin\\Views\\HogRider\\EvolveNigga.cshtml",
+              "ToolTip": "C:\\Users\\abbas\\OneDrive\\Desktop\\csharp\\ZeynalabdiddyRuhuGelmis\\ZeynalabdiddyRuhuGelmis.MVC\\Areas\\Admin\\Views\\HogRider\\EvolveNigga.cshtml",
+              "RelativeToolTip": "ZeynalabdiddyRuhuGelmis.MVC\\Areas\\Admin\\Views\\HogRider\\EvolveNigga.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-26T15:04:44.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SpecialNiggaHelpService.cs",
+              "DocumentMoniker": "C:\\Users\\abbas\\OneDrive\\Desktop\\csharp\\ZeynalabdiddyRuhuGelmis\\ZeynalabdiddyRuhuGelmis.BL\\Services\\SpecialNiggaHelpService.cs",
+              "RelativeDocumentMoniker": "ZeynalabdiddyRuhuGelmis.BL\\Services\\SpecialNiggaHelpService.cs",
+              "ToolTip": "C:\\Users\\abbas\\OneDrive\\Desktop\\csharp\\ZeynalabdiddyRuhuGelmis\\ZeynalabdiddyRuhuGelmis.BL\\Services\\SpecialNiggaHelpService.cs",
+              "RelativeToolTip": "ZeynalabdiddyRuhuGelmis.BL\\Services\\SpecialNiggaHelpService.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAwwFkAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T15:00:13.777Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

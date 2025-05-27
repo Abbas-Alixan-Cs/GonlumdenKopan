@@ -1,0 +1,30 @@
+C:\Users\II Novbe\source\repos\ZeynalabdiddyRuhuGelmis\ZeynalabdiddyRuhuGelmis.BL\bin\Debug\net8.0\ZeynalabdiddyRuhuGelmis.BL.deps.json
+C:\Users\II Novbe\source\repos\ZeynalabdiddyRuhuGelmis\ZeynalabdiddyRuhuGelmis.BL\bin\Debug\net8.0\ZeynalabdiddyRuhuGelmis.BL.dll
+C:\Users\II Novbe\source\repos\ZeynalabdiddyRuhuGelmis\ZeynalabdiddyRuhuGelmis.BL\bin\Debug\net8.0\ZeynalabdiddyRuhuGelmis.BL.pdb
+C:\Users\II Novbe\source\repos\ZeynalabdiddyRuhuGelmis\ZeynalabdiddyRuhuGelmis.BL\obj\Debug\net8.0\ZeynalabdiddyRuhuGelmis.BL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\II Novbe\source\repos\ZeynalabdiddyRuhuGelmis\ZeynalabdiddyRuhuGelmis.BL\obj\Debug\net8.0\ZeynalabdiddyRuhuGelmis.BL.AssemblyInfoInputs.cache
+C:\Users\II Novbe\source\repos\ZeynalabdiddyRuhuGelmis\ZeynalabdiddyRuhuGelmis.BL\obj\Debug\net8.0\ZeynalabdiddyRuhuGelmis.BL.AssemblyInfo.cs
+C:\Users\II Novbe\source\repos\ZeynalabdiddyRuhuGelmis\ZeynalabdiddyRuhuGelmis.BL\obj\Debug\net8.0\ZeynalabdiddyRuhuGelmis.BL.csproj.CoreCompileInputs.cache
+C:\Users\II Novbe\source\repos\ZeynalabdiddyRuhuGelmis\ZeynalabdiddyRuhuGelmis.BL\obj\Debug\net8.0\ZeynalabdiddyRuhuGelmis.BL.dll
+C:\Users\II Novbe\source\repos\ZeynalabdiddyRuhuGelmis\ZeynalabdiddyRuhuGelmis.BL\obj\Debug\net8.0\refint\ZeynalabdiddyRuhuGelmis.BL.dll
+C:\Users\II Novbe\source\repos\ZeynalabdiddyRuhuGelmis\ZeynalabdiddyRuhuGelmis.BL\obj\Debug\net8.0\ZeynalabdiddyRuhuGelmis.BL.pdb
+C:\Users\II Novbe\source\repos\ZeynalabdiddyRuhuGelmis\ZeynalabdiddyRuhuGelmis.BL\obj\Debug\net8.0\ref\ZeynalabdiddyRuhuGelmis.BL.dll
+C:\Users\II Novbe\source\repos\ZeynalabdiddyRuhuGelmis\ZeynalabdiddyRuhuGelmis.BL\bin\Debug\net8.0\ZeynalabdiddyRuhuGelmis.DAL.dll
+C:\Users\II Novbe\source\repos\ZeynalabdiddyRuhuGelmis\ZeynalabdiddyRuhuGelmis.BL\bin\Debug\net8.0\ZeynalabdiddyRuhuGelmis.DAL.pdb
+C:\Users\II Novbe\source\repos\ZeynalabdiddyRuhuGelmis\ZeynalabdiddyRuhuGelmis.BL\obj\Debug\net8.0\ZeynalabdiddyRuhuGelmis.BL.csproj.AssemblyReference.cache
+C:\Users\II Novbe\source\repos\ZeynalabdiddyRuhuGelmis\ZeynalabdiddyRuhuGelmis.BL\obj\Debug\net8.0\Zeynalab.ACD39D3E.Up2Date
+C:\Users\abbas\OneDrive\Desktop\csharp\ZeynalabdiddyRuhuGelmis\ZeynalabdiddyRuhuGelmis.BL\bin\Debug\net8.0\ZeynalabdiddyRuhuGelmis.BL.deps.json
+C:\Users\abbas\OneDrive\Desktop\csharp\ZeynalabdiddyRuhuGelmis\ZeynalabdiddyRuhuGelmis.BL\bin\Debug\net8.0\ZeynalabdiddyRuhuGelmis.BL.dll
+C:\Users\abbas\OneDrive\Desktop\csharp\ZeynalabdiddyRuhuGelmis\ZeynalabdiddyRuhuGelmis.BL\bin\Debug\net8.0\ZeynalabdiddyRuhuGelmis.BL.pdb
+C:\Users\abbas\OneDrive\Desktop\csharp\ZeynalabdiddyRuhuGelmis\ZeynalabdiddyRuhuGelmis.BL\bin\Debug\net8.0\ZeynalabdiddyRuhuGelmis.DAL.dll
+C:\Users\abbas\OneDrive\Desktop\csharp\ZeynalabdiddyRuhuGelmis\ZeynalabdiddyRuhuGelmis.BL\bin\Debug\net8.0\ZeynalabdiddyRuhuGelmis.DAL.pdb
+C:\Users\abbas\OneDrive\Desktop\csharp\ZeynalabdiddyRuhuGelmis\ZeynalabdiddyRuhuGelmis.BL\obj\Debug\net8.0\ZeynalabdiddyRuhuGelmis.BL.csproj.AssemblyReference.cache
+C:\Users\abbas\OneDrive\Desktop\csharp\ZeynalabdiddyRuhuGelmis\ZeynalabdiddyRuhuGelmis.BL\obj\Debug\net8.0\ZeynalabdiddyRuhuGelmis.BL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abbas\OneDrive\Desktop\csharp\ZeynalabdiddyRuhuGelmis\ZeynalabdiddyRuhuGelmis.BL\obj\Debug\net8.0\ZeynalabdiddyRuhuGelmis.BL.AssemblyInfoInputs.cache
+C:\Users\abbas\OneDrive\Desktop\csharp\ZeynalabdiddyRuhuGelmis\ZeynalabdiddyRuhuGelmis.BL\obj\Debug\net8.0\ZeynalabdiddyRuhuGelmis.BL.AssemblyInfo.cs
+C:\Users\abbas\OneDrive\Desktop\csharp\ZeynalabdiddyRuhuGelmis\ZeynalabdiddyRuhuGelmis.BL\obj\Debug\net8.0\ZeynalabdiddyRuhuGelmis.BL.csproj.CoreCompileInputs.cache
+C:\Users\abbas\OneDrive\Desktop\csharp\ZeynalabdiddyRuhuGelmis\ZeynalabdiddyRuhuGelmis.BL\obj\Debug\net8.0\Zeynalab.ACD39D3E.Up2Date
+C:\Users\abbas\OneDrive\Desktop\csharp\ZeynalabdiddyRuhuGelmis\ZeynalabdiddyRuhuGelmis.BL\obj\Debug\net8.0\ZeynalabdiddyRuhuGelmis.BL.dll
+C:\Users\abbas\OneDrive\Desktop\csharp\ZeynalabdiddyRuhuGelmis\ZeynalabdiddyRuhuGelmis.BL\obj\Debug\net8.0\refint\ZeynalabdiddyRuhuGelmis.BL.dll
+C:\Users\abbas\OneDrive\Desktop\csharp\ZeynalabdiddyRuhuGelmis\ZeynalabdiddyRuhuGelmis.BL\obj\Debug\net8.0\ZeynalabdiddyRuhuGelmis.BL.pdb
+C:\Users\abbas\OneDrive\Desktop\csharp\ZeynalabdiddyRuhuGelmis\ZeynalabdiddyRuhuGelmis.BL\obj\Debug\net8.0\ref\ZeynalabdiddyRuhuGelmis.BL.dll

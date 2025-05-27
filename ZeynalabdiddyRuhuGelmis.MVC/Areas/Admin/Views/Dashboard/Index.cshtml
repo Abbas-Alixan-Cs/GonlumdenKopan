@@ -1,0 +1,98 @@
+﻿@model List<NiggaThatNeedHelp>
+            <!-- Sale & Revenue Start -->
+            <div class="container-fluid pt-4 px-4">
+                <div class="row g-4">
+                    <div class="col-sm-6 col-xl-3">
+                        <div class="bg-secondary rounded d-flex align-items-center justify-content-between p-4">
+                            <i class="fa fa-chart-line fa-3x text-primary"></i>
+                            <div class="ms-3">
+                                <p class="mb-2">Today Sale</p>
+                                <h6 class="mb-0">$1234</h6>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-sm-6 col-xl-3">
+                        <div class="bg-secondary rounded d-flex align-items-center justify-content-between p-4">
+                            <i class="fa fa-chart-bar fa-3x text-primary"></i>
+                            <div class="ms-3">
+                                <p class="mb-2">Total Sale</p>
+                                <h6 class="mb-0">$1234</h6>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-sm-6 col-xl-3">
+                        <div class="bg-secondary rounded d-flex align-items-center justify-content-between p-4">
+                            <i class="fa fa-chart-area fa-3x text-primary"></i>
+                            <div class="ms-3">
+                                <p class="mb-2">Today Revenue</p>
+                                <h6 class="mb-0">$1234</h6>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-sm-6 col-xl-3">
+                        <div class="bg-secondary rounded d-flex align-items-center justify-content-between p-4">
+                            <i class="fa fa-chart-pie fa-3x text-primary"></i>
+                            <div class="ms-3">
+                                <p class="mb-2">Total Revenue</p>
+                                <h6 class="mb-0">$1234</h6>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- Sale & Revenue End -->
+
+            <!-- Recent Sales Start -->
+            <div class="container-fluid pt-4 px-4">
+                <div class="bg-secondary text-center rounded p-4">
+                    <div class="d-flex align-items-center justify-content-between mb-4">
+                        <h6 class="mb-0">person table</h6>
+                        <a asp-area="Admin" asp-controller="HogRider" asp-action="BuyNigga">Buy New Nigga</a>
+                    </div>
+                    <div class="table-responsive">
+                        <table class="table text-start align-middle table-bordered table-hover mb-0">
+                            <thead>
+                                <tr class="text-white">
+                                    <th scope="col">Id</th>
+                                    <th scope="col">ForWhat</th>
+                                    <th scope="col">About</th>
+                                    <th scope="col">WeGot</th>
+                                    <th scope="col">WeNeed</th>
+                                    <th scope="col">Img</th>
+                                    <th scope="col">action</th>
+                                    <th scope="col">action</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+
+
+                                @if (Model != null)
+                                {
+
+                                    foreach (var i in Model)
+                                    {
+                                        <tr>
+                                            <td>@i.Id</td>
+                                            <td>@i.ForWhat</td>
+                                            <td>@i.About</td>
+                                            <td>@i.WeGot</td>
+                                            <td>@i.WeNeed</td>
+                                            <td><img width="80" src="~/UploadedImages/@i.Img"></td>
+                                            <td>
+                                    <form asp-route-id="@i.Id" asp-area="Admin" asp-controller="HogRider" asp-action="KillNigga" method="post" onsubmit="return confirm('Delete it');">
+                                                    <button type="submit" class="btn btn-sm btn-danger">Delete</button>
+                                                </form>
+                                            </td>
+                                    <td><a asp-route-id="@i.Id" asp-area="Admin" asp-controller="HogRider" asp-action="EvolveNigga" method="Get" class="btn btn-sm btn-warning">Update</a></td>
+                                        </tr>
+                                    }
+                                }
+
+
+                            </tbody>
+                        </table>
+                    </div>
+
+                </div>
+            </div>
+            <!-- Recent Sales End -->

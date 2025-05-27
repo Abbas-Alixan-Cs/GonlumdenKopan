@@ -1,0 +1,46 @@
+﻿
+@model ZeynalabdiddyRuhuGelmis.DAL.ModelViews.CreateNiggaHelpVM;
+<!-- Form Start -->
+<div class="container-fluid pt-4 px-4">
+    <div class="row g-4">
+        <div class="col-sm-12 col-xl-6">
+            <div class="bg-secondary rounded h-100 p-4">
+
+
+
+
+
+                <h6 class="mb-4">Create New</h6>
+
+                <form asp-area="Admin" asp-controller="HogRider" asp-action="BuyNigga" enctype="multipart/form-data" method="post">
+
+                    <div class="mb-3">
+                        <label class="form-label">ForWhat</label>
+                        <input asp-for="ForWhat" class="form-control">
+                    </div>
+                    <div class="mb-3">
+                        <label class="form-label">About</label>
+                        <input asp-for="About" class="form-control">
+                    </div>
+                    <div class="mb-3">
+                        <label class="form-label">WeGot</label>
+                        <input asp-for="WeGot" class="form-control">
+                    </div>
+                    <div class="mb-3">
+                        <label class="form-label">WeNeed</label>
+                        <input asp-for="WeNeed" class="form-control">
+                    </div>
+                    <div class="mb-3">
+                        <label class="form-label">Upload Image</label>
+                        <input asp-for="Image" class="form-control">
+                    </div>
+
+
+                    <button type="submit" class="btn btn-primary">Create</button>
+
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- Form End -->
